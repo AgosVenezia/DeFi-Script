@@ -1,6 +1,7 @@
 # DeFi Script: Uniswap Swap & Aave Supply
 
 ![DeFi Ecosystem](https://ibb.co/wBDMpHc)
+[url=https://imgbb.com/][img]https://i.ibb.co/5GqBsDK/30-Jul-Navigating-the-De-Fi-Ecosystem.png[/img][/url]
 
 ## Overview of Script
 
