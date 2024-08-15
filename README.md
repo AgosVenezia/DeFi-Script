@@ -1,7 +1,6 @@
 # DeFi Script: Uniswap Swap & Aave Supply
 
 ![DeFi Ecosystem](https://i.ibb.co/5GqBsDK/30-Jul-Navigating-the-De-Fi-Ecosystem.png)
-[url=https://imgbb.com/][img]https://i.ibb.co/5GqBsDK/30-Jul-Navigating-the-De-Fi-Ecosystem.png[/img][/url]
 
 ## Overview of Script
 
@@ -30,7 +29,7 @@ This script demonstrates the integration of two powerful DeFi protocols—Uniswa
 
 Below is a diagram that visually represents the workflow of the script:
 
-![Diagram](https://ibb.co/84kr8gn)
+![Diagram](https://i.ibb.co/qF6N1YL/Fire-Shot-Capture-436-Chat-GPT-chatgpt-com.png)
 
 
 ## Code Explanation:
